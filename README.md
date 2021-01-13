@@ -3,7 +3,7 @@ Uses socket programming to establish a TCP connection between participants, allo
 
 HOW TO RUN MY PROGRAM:
 
-Once you have uncompressed my zip folder and directed your command line/terminal to my folder, simply run my "Rojahn_ClientServer.class" compiled java file in your command line/terminal like so using the specific arguments:
+Simply run the command "javac Rojahn_ClientServer.java" to compile the java program in your command line/terminal, then you can run the program like so using the specific arguments:
 
 1) Server: "java Rojahn_ClientServer [NAME_PLAYER1] server [PORT_NUMBER]"
      ex. - "java Rojahn_ClientServer Spencer server 4999"
