@@ -13,7 +13,7 @@ Once you have uncompressed my zip folder and directed your command line/terminal
 
 **NOTES**
 - Run commandline 1) and then 2) in separate terminal windows. Server is always run first.
-- The ex. would work together because the client simply needs to enter the IP address of machine that is being used for the server. Thus, in this example, my machine hosts the server and therefore the client needs to connect to my address (not my real IP address) on the specified port. So, for you as the TA, you would simply plug you IP address into the client command line arguments.
+- The ex. would work together because the client simply needs to enter the IP address of machine that is being used for the server. Thus, in this example, my machine hosts the server and therefore the client needs to connect to my address (not my real IP address) on the specified port. So, for you as the user, you would simply plug your IP address into the client command line arguments if you are simply running both the server and client on your machine.
 - Thus, the client's entered IP address must equal be equal to the IP address of the server
 - The port number should be the same for the client and the server.
 
