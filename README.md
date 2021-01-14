@@ -9,7 +9,7 @@ Simply run the command "javac Rojahn_ClientServer.java" to compile the java prog
      ex. - "java Rojahn_ClientServer Spencer server 4999"
 
 2) Client: "java Rojahn_ClientServer [NAME_PLAYER2] client [IP_ADDRESS] [PORT_NUMBER]"
-     ex. - "java Rojahn_ClientServer Billy client 192.102.1.19 4999"
+     ex. - "java Rojahn_ClientServer Billy client 199.199.19.99 4999"
 
 **NOTES**
 - Run commandline 1) and then 2) in separate terminal windows. Server is always run first.
